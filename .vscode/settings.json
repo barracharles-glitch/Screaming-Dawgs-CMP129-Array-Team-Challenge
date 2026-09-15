@@ -1,7 +1,7 @@
 {
   "chat.disableAIFeatures": false,
   "chat.agent.enabled": false,
-  "chat.includeReferencedInstructions": true,
+  "chat.includeReferencedInstructions": false,
 
   "github.copilot.enable": {
     "*": false,
